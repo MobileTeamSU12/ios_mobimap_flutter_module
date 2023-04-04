@@ -1,0 +1,11 @@
+framework module mobimap_plugin {
+  umbrella header "mobimap_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module mobimap_plugin.Swift {
+  header "mobimap_plugin-Swift.h"
+  requires objc
+}
