@@ -1,0 +1,16 @@
+PODS:
+  - ios_mobimap_module_flutter (0.1.0)
+
+DEPENDENCIES:
+  - ios_mobimap_module_flutter (from `../`)
+
+EXTERNAL SOURCES:
+  ios_mobimap_module_flutter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ios_mobimap_module_flutter: e8c8e1c305756a01771fd7efe4dcc29616197e5b
+
+PODFILE CHECKSUM: 688bc4e39293551e531e0d355685bc5acbc9f520
+
+COCOAPODS: 1.11.3

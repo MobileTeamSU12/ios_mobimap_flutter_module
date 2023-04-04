@@ -1,0 +1,22 @@
+{
+  "name": "ios_mobimap_module_flutter",
+  "version": "0.1.0",
+  "summary": "A short description of ios_mobimap_module_flutter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ThanhTC21/ios_mobimap_module_flutter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ThanhTC21": "thanhtc21@fpt.com.vn"
+  },
+  "source": {
+    "git": "https://github.com/ThanhTC21/ios_mobimap_module_flutter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ios_mobimap_module_flutter/Classes/**/*"
+}
